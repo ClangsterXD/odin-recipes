@@ -5,9 +5,9 @@ Key Learning Milestones:
 
 Atomic Commits-I focused on keeping changes small and documented, ensuring that every bug fix or feature (like adjusting image ratios or fixing syntax) has its own clear history.
 
-Version Control as a Safety Net:-I successfully utilized git revert to roll back experimental changes, maintaining a stable "production" version of the site at all times.
+Version Control as a Safety Net-I successfully utilized git revert to roll back experimental changes, maintaining a stable "production" version of the site at all times.
 
-Semantic Polish-My commit history tracks the evolution of the site from basic tags to semantic HTML5, prioritizing accessibility and proper text hierarchy (e.g., transitioning from <b> to <strong>).
+Semantic Polish-My commit history tracks the evolution of the site from basic tags to semantic HTML5, prioritizing accessibility and proper text hierarchy (e.g., transitioning from "b" to "strong").
 
 UX-First Mindset-Many commits focus on "micro-interactions," such as refining line spacing and image scaling to improve the readability of the recipes.
 
