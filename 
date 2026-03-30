@@ -1,0 +1,15 @@
+[36m@@ -25,11 +25,12 @@[m
+                     <li>Chili powder</li>[m
+                     <li>Black pepper</li>[m
+                   </ul>[m
+[32m+[m[32m                <li>2 damp paper towels</li>[m
+               </ul>[m
+             <h2>Steps</h2>[m
+               <ol>[m
+[31m-                <li></li>[m
+[31m-                <li></li>[m
+[32m+[m[32m                <li>Mix the beans, rice, salsa, and seasoning in a small bowl. Microwave for 34-60seconds until hot.</li>[m
+[32m+[m[32m                <li>Soften the Tortilla in the microwave for 10 seconds between two damp paper towels.</li>[m
+                 <li></li>[m
+                 <li></li>[m
+               </ol>[m
