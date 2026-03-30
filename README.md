@@ -1,19 +1,14 @@
 # odin-recipes
-While this is a foundational HTML project, I used it as an opportunity to familirize myself with the Git workflow. This repository contains over 50+ commits, reflecting an incremental approach to web development with a strong attention to detail.
+This project was my first deep dive into the fundamentals of writing HTML and managing a project with Git.
 
-Key Learning Milestones:
+Asset Management: I practiced handling file paths for images and linking multiple pages together (index, brownie, and sandwich pages) to create a functional site.
 
-Atomic Commits-I focused on keeping changes small and documented, ensuring that every bug fix or feature (like adjusting image ratios or fixing syntax) has its own clear history.
+The Git Workflow: I focused on "atomic commits"—making small, frequent updates like fix brownie image filepath or add link to index. This made it much easier to track my progress and fix mistakes as they happened.
 
-Version Control as a Safety Net-I successfully utilized git revert to roll back experimental changes, maintaining a stable "production" version of the site at all times.
-
-Semantic Polish-My commit history tracks the evolution of the site from basic tags to semantic HTML5, prioritizing accessibility and proper text hierarchy (e.g., transitioning from "b" to "strong").
-
-UX-First Mindset-Many commits focus on "micro-interactions," such as refining line spacing and image scaling to improve the readability of the recipes.
+Iterative Design: I spent time refining the user experience by adjusting spacing, resizing images, and simplifying lists to make the recipes easier to read.
 
 
 View project: https://clangsterxd.github.io/odin-recipes/
-
 
 
 Attribution
